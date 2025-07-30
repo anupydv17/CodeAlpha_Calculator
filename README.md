@@ -58,10 +58,6 @@ It is simple, responsive calculator web application built using **HTML**, **CSS*
 - Add history/log feature
 - Add dark/light theme toggle
 
-# Author
-
-- Name: Ranu Kumar
-- GitHub: [@ranukumar11](https://github.com/ranukumar11)
 
 
 
